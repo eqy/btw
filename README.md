@@ -13,3 +13,4 @@ OverrideESPMountPoint=/boot/efi
 Misc
 ----
 + `iwd` weirdness, use `systemctl --now enable iwd` [source](https://superuser.com/questions/1648698/arch-linux-wlan-doesnt-work-waiting-for-iwd)
++ `dhcpcd` not happy? just dc in wd and rc
